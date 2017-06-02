@@ -14,3 +14,4 @@ Nesta aula ficou definido a construção de um trabalho em duplas (2 pontos) com
 8. JMS --> Ricardo
 O trabalho deverá ser entregue e apresentado em 16/06/2017 artefatos: Aplicação com a tecnologia escolhida, Apresentação, Documento constando:
 O que é a tecnologia, seu funcionamento, requisitos, vantagens, desvantagens.
+A data de entrega do projeto interdisciplinar será 30/06/2017
